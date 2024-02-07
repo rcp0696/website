@@ -1,0 +1,107 @@
+h1{ color : red;
+text-align:center;
+font-family: 'Comforter', sans-serif;
+font-size: 50px;}
+
+h1:hover{color:silver;
+    font-family: 'Monospace', sans;
+}
+
+.image{width:auto;
+text-align:center;
+padding:50px;
+border-color: red;
+border-width: 5px;
+border-style: solid;
+border-radius: 50px;
+margin: 20px
+
+}
+
+/*Not sure what this affects*/
+img {
+width:20%;
+height:2%;}
+
+.text{
+font-size: 25px;
+font-family: sans-serif;
+text-align:justify;
+padding:50px;
+border-color: green;
+border-radius:50px;
+background-color:silver;
+}
+
+.image1{
+    width:auto;
+    text-align:center;
+    padding:50px;
+    border-color:silver;
+    border-width:5px;
+    border-style:solid;
+    border-radius:50px;
+    margin:20px;
+}
+
+.samsungtext{
+    font-size:25px;
+    font-family: sans-serif;
+    text-align:justify;
+    padding:50px;
+    border-color: green;
+    border-radius:50px;
+    background-color:silver;
+    
+    
+}
+
+.HTML_CSS{
+    font-size:25px;
+    font-family:sans-serif;
+    text-align:justify;
+    padding:50px;
+    border-color:green;
+    border-radius:50px;
+    background-color:silver;
+    margin-top:40px;
+}
+
+.htmlimg{
+    width:auto;
+    text-align:center;
+    padding;75px;
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50px;
+    margin:20px;
+}
+
+.htmlmeme{
+    width:auto;
+    text-align:center;
+}
+
+.form_action {
+    text-align:center;
+    border-radius:50px;
+    background-color:silver;
+    padding:30px;
+}
+
+table {
+    table-layout: fixed;
+    width:60%;
+    text-align:center;
+    border-collapse:collapse;
+}
+
+table, th, td {
+    border: 3px solid silver;
+}
+
+.table{
+    text-align:center;
+    
+}
